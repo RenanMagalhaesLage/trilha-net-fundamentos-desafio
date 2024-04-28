@@ -1,4 +1,4 @@
-namespace DesafioFundamentos.Models
+namespace DesafioEstacionamento.Models
 {
     public class Estacionamento
     {
